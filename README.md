@@ -1,6 +1,4 @@
 # CuppaOS
-An Operating System build on x86 Assembly using NASM
-
 This project is a learning exercise with the following objectives:
 	- Learn more about the ARM Cortex microprocessor architecture
 	- Gain a deeper understanding of Operating System design
