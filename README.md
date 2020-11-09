@@ -18,3 +18,4 @@ qemu-arm-system -machine raspi2
   - [ARM Cortex-A Series Programmer's Guide](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/74c58aeb-d7ee-485b-bb6f-ffda55b440f7/DEN0013D_cortex_a_series_PG.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201109T110842Z&X-Amz-Expires=86400&X-Amz-Signature=1dd5cfab348afa15e0df4a9c143478d9f704b494baebca2019a017a99b2c2a1c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22DEN0013D_cortex_a_series_PG.pdf%22)
   - [ARM Assembly Online Reference](https://www.keil.com/support/man/docs/armasm/armasm_dom1361289850039.htm)
   - [ARM: How to Write a Bootloader](https://www.keil.com/support/docs/3913.htm)
+  - [Cambridge Tutorial on OS Dev for the Raspberry Pi](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
