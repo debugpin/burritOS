@@ -13,6 +13,7 @@ qemu-arm-system -machine raspi2
 
 # Project Resources
 - [OSDev Forum and Wiki](https://forum.osdev.org/)
+- [MIT OS Engineering Course](https://pdos.csail.mit.edu/6.828/2011/schedule.html)
 - ARM MCU Specific Documentation
   - [ARM Cortex-A7 Series Technical Reference Manual (TRM)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/912d8595-a7c1-42c7-8351-be3934543183/DDI0464F_cortex_a7_mpcore_r0p5_trm.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201109T110745Z&X-Amz-Expires=86400&X-Amz-Signature=e28579ff787a8cc82ef5ad2069a6cb6deaeb870867526a62eb75580e8457e9f2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22DDI0464F_cortex_a7_mpcore_r0p5_trm.pdf%22)
   - [ARM Cortex-A Series Programmer's Guide](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/74c58aeb-d7ee-485b-bb6f-ffda55b440f7/DEN0013D_cortex_a_series_PG.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201109T110842Z&X-Amz-Expires=86400&X-Amz-Signature=1dd5cfab348afa15e0df4a9c143478d9f704b494baebca2019a017a99b2c2a1c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22DEN0013D_cortex_a_series_PG.pdf%22)
