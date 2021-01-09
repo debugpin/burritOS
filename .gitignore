@@ -1,0 +1,6 @@
+# Compiled Static libraries
+*.a
+
+# Executables
+*.exe
+*.out
