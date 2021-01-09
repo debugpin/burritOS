@@ -4,8 +4,7 @@
 int main(int argc, char** argv)
 {
     ListFiles ls;
-    std::string input = ls.get_command(argc, argv);
-    std::cout << input << std::endl;
+    ls.get_command(argc, argv);
 
     return 0;
 }
