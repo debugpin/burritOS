@@ -1,8 +1,6 @@
-#include "ls.h"
-#include "parent_import.h"
 #include <vector>
+#include "ls.h"
 #include "flags.h"
-#include "types.h"
 
 void ListFiles::get_command(int num_flags, char** p_flags)
 {
@@ -13,7 +11,7 @@ void ListFiles::get_command(int num_flags, char** p_flags)
     print_flags(flags, " ");
 };
 
-void ListFiles::format_output()
+void ListFiles::format_output(vec_str& flags)
 {
     vec_str current_files;
 };

@@ -1,3 +1,10 @@
+# CMake Configuration and Build
+build/
+CMakeLists.txt
+
+# vscode Configuration Files
+.vscode/
+
 # Compiled Static libraries
 *.a
 
