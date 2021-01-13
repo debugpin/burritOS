@@ -7,7 +7,7 @@ class ListFiles
 {
     public:
     ListFiles(){};
-    void get_command(int num_flags, char** p_flags);
-    void format_output(vec_str& flags);
+    vec_str* get_command(int num_flags, char** p_flags);
+    void format_output(vec_str* flags);
     void output();
 };

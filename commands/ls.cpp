@@ -2,16 +2,18 @@
 #include "ls.h"
 #include "flags.h"
 
-void ListFiles::get_command(int num_flags, char** p_flags)
+vec_str* ListFiles::get_command(int num_flags, char** p_flags)
 {
     vec_str flags;
+    vec_str* p_vec = &flags;
 
     for(int flg = 0; flg < num_flags; ++flg)
         flags.push_back(p_flags[flg]);
-    print_flags(flags, " ");
+    
+    return p_vec;
 };
 
-void ListFiles::format_output(vec_str& flags)
+void ListFiles::format_output(vec_str* flags)
 {
     vec_str current_files;
 };
