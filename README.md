@@ -1,12 +1,8 @@
-# CuppaOS
-A Hobby Operating System
+# burritOS
 
-This project is a learning exercise with the following motivations and characteristics:
-	- Learn more about the ARM Cortex microprocessor architectures
-	- Gain a deeper understanding of Operating System design for mobile phones
-	- Write a minimal Unix-inspired operating system in C++, directed towards mobile devices using ARM chips
+![Logo](assets/burritOS-logo-small.png)
 
-Considerations in the design of this Operating System:
-	- Keep things simple
-	- What parts of the Unix system are necessary to support a mobile device OS?
-	- Lightweight. Minimise dependencies on libraries
+burritOS, because Burritos are just so tasty. The perfect composition of ingredients
+to make for a wholesome and satisfying meal, full of flavour and healthy nutrients.
+
+What more could you ask for?
